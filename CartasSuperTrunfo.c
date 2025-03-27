@@ -1,4 +1,5 @@
-int main() {
+// Entrega do trabalho do: Tema 1 - Super Trunfo em c: Fundamentos e Técnicas Avançadas
+int main() { 
     // Variáveis da carta 1
     char estado[50], nome[50];
     int codigo, pontos;
